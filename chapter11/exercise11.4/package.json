@@ -1,0 +1,9 @@
+{
+  "name": "exercise11.4",
+  "version": "1.0.0",
+  "description": "Exercise 11.4 solution of Node JS Design Patterns",
+  "main": "main.js",
+  "type": "module",
+  "author": "cragtok",
+  "license": "ISC"
+}
