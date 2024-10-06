@@ -1,0 +1,16 @@
+{
+  "name": "exercise6.4",
+  "version": "1.0.0",
+  "description": "Exercise 6.4 solution of Node JS Design Patterns",
+  "main": "main.js",
+  "type": "module",
+  "author": "cragtok",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "1.4.0",
+    "mz": "2.7.0"
+  },
+  "scripts": {
+      "start": "node main.js"
+  }
+}
