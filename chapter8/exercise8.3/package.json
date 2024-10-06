@@ -1,0 +1,15 @@
+{
+  "name": "exercise8.3",
+  "version": "1.0.0",
+  "description": "Exercise 8.3 solution of Node JS Design Patterns",
+  "main": "main.js",
+  "type": "module",
+  "author": "cragtok",
+  "license": "ISC",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "ansi-styles": "^6.2.1"
+  }
+}
