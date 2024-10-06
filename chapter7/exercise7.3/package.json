@@ -1,0 +1,12 @@
+{
+  "name": "exercise7.3",
+  "version": "1.0.0",
+  "description": "Exercise 7.3 solution of Node JS Design Patterns",
+  "main": "main.js",
+  "type": "module",
+  "author": "cragtok",
+  "license": "ISC",
+  "scripts": {
+      "start": "node main.js"
+  }
+}
